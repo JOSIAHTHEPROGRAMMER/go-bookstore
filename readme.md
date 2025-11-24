@@ -1,7 +1,8 @@
 # Go Bookstore
 
 [![Go](https://img.shields.io/badge/Go-1.21-blue)](https://golang.org/)
-[![License](https://img.shields.io/github/license/JOSIAHTHEPROGRAMMER/go-bookstore)](https://github.com/JOSIAHTHEPROGRAMMER/go-bookstore/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/JOSIAHTHEPROGRAMMER/go-bookstore/blob/main/LICENSE)
+
 
 
 ---
